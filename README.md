@@ -7,7 +7,7 @@
 ## Minimum sistem gereksinimleri:
 NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Testnet | 2          | 4         | max 100  |
+| Testnet | 2          | 4         | farmer için max 100  |
 
 
 ## NuLink için önemli linkler:
