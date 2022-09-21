@@ -1,6 +1,6 @@
 <h1 align="center">Ödüllü Subspace Testneti Kurulum Rehberi
 
-## Selamlar, bugün ödüllü Subspace Gemini 2 Testneti için node kuracağız. Ödül için bazı şartlar var, detayları aşağıda açıklıyorum. Sağ üstten yıldızlayıp forklamayı unutmayalım.
+## Selamlar, bugün ödüllü Subspace Gemini 2 Testneti için node kuracağız. Ödül için bazı şartlar var, detayları aşağıda açıklıyorum. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
 
 ![image](https://user-images.githubusercontent.com/101462877/191612639-038662d6-472b-401a-b7a3-4ce7ead249be.png)
 
@@ -80,3 +80,4 @@ wget -O subspace.sh https://raw.githubusercontent.com/thisislexar/Subspace-Gemin
 
 ![image](https://user-images.githubusercontent.com/101462877/191618055-08b15f5e-9c33-4c07-a9c3-5b8ca9ce64ec.png)
 
+# Sorularınız ve merak ettikleriniz için: [LossNode Chat](https://t.me/LossNode)
