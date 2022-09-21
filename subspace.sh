@@ -64,7 +64,7 @@ echo -e "\e[1m\e[92m Cuzdan adresi:  \e[0m" $ADDRESS
 
 echo -e "\e[1m\e[92m Plot Size:  \e[0m" $PLOTSIZE
 
-echo -e "\e[1m\e[91m    11.1 Bilgileri onayliyor musunuz? (y/n) \e[0m"
+echo -e "\e[1m\e[91m    Bilgileri onayliyor musunuz? (y/n) \e[0m"
 read -p "(y/n)?" response
 if [[ $response =~ ^(yes|y| ) ]] || [[ -z $response ]]; then
 
