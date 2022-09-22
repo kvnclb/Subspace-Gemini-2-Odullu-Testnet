@@ -10,7 +10,7 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 | Testnet | 2          | 4         | farmer için max 100  |
 
 
-## NuLink için önemli linkler:
+## Subspace için önemli linkler:
 - [Website](https://subspace.network/)
 - [Explorer(ımsı) Telemetry](https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101)
 - [Twitter](https://twitter.com/NetworkSubspace)
