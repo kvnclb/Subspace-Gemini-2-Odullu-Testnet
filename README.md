@@ -7,7 +7,7 @@
 ## Minimum sistem gereksinimleri:
 NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Testnet | 2          | 4         | farmer için max 100  |
+| Testnet | 2          | 4         | 150GB  |
 
 
 ## Subspace için önemli linkler:
