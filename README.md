@@ -81,3 +81,14 @@ wget -O subspace.sh https://raw.githubusercontent.com/thisislexar/Subspace-Gemin
 ![image](https://user-images.githubusercontent.com/101462877/191618055-08b15f5e-9c33-4c07-a9c3-5b8ca9ce64ec.png)
 
 # Sorularınız ve merak ettikleriniz için: [LossNode Chat](https://t.me/LossNode)
+
+# Node silmek için: 
+
+```
+rm -rf ~/.local/share/subspace*
+rm -rf /etc/systemd/system/subspace*
+rm -rf /usr/local/bin/subspace*
+
+rm -r /root/.local/share/subspace-farmer
+rm -r /root/.local/share/subspace-node
+```
